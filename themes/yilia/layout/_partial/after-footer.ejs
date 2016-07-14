@@ -1,0 +1,28 @@
+<% if (theme.fancybox){ %>
+  <%- css('fancybox/jquery.fancybox') %>
+<% } %>
+
+<script>
+	var yiliaConfig = {
+		fancybox: <%=theme.fancybox%>,
+		mathjax: <%=theme.mathjax%>,
+		animate: <%=theme.animate%>,
+		isHome: <%=is_home()%>,
+		isPost: <%=is_post()%>,
+		isArchive: <%=is_archive()%>,
+		isTag: <%=is_tag()%>,
+		isCategory: <%=is_category()%>,
+		open_in_new: <%=theme.open_in_new%>
+	}
+</script>
+<%- js('//cdn.bootcss.com/require-jquery/0.25.0/require-jquery.min.js') %>
+<% if(is_home()){ %>
+	<%- js('js/get-comment-count.js') %>
+<% } %>	
+<%- js('js/main.js') %>
+
+<%- partial('google-analytics') %>
+
+<% if (theme.mathjax){ %>
+<%- partial('mathjax') %>
+<% } %>

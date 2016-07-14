@@ -1,0 +1,59 @@
+# Header
+menu:
+  主页: /
+  归档: /archives
+  备忘录: /memo.html
+
+# SubNav
+subnav:
+  github: "https://github.com/geemo"
+  # weibo: "#"
+  rss: /atom.xml
+  # zhihu: "#"
+  #douban: "#"
+  mail: "mailto:153330685@qq.com"
+  #facebook: "#"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: false
+mathjax: false
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: //q.qlogo.cn/qqapp/100229475/EE4115CA85A73A143917ED0A46566278/100
+
+#你的头像url
+avatar: //q.qlogo.cn/qqapp/100229475/EE4115CA85A73A143917ED0A46566278/100
+#是否开启分享
+share_jia: false
+share_addthis: false
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: 84c1211306dcc3a0da908e95bb3324ed
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+#friends: false
+#开启——
+friends:
+  geemo的论坛: http://jsnode.cn
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 伸手党，懒癌晚期，节能主义者，萝莉控，重度动漫迷，前后端菜狗
