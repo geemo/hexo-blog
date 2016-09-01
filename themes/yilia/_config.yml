@@ -50,7 +50,7 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  geemo的论坛: http://jsnode.cn/
+ # geemo的论坛: http://jsnode.cn/
   霜酱的博客: http://coshadow.com/
   Ranger的博客: http://w3csky.com/
   我是狗的博客: http://fkwebs.com/
