@@ -51,14 +51,19 @@ tagcloud: true
 #开启——
 friends:
  # geemo的论坛: http://jsnode.cn/
-  霜酱的博客: http://coshadow.com/
-  Ranger的博客: http://w3csky.com/
-  我是狗的博客: http://fkwebs.com/
-  Kinm的博客: http://mysaul.com/
-  尤里卡的博客: http://www.wxybaby.com/
+  爱穿女装哒霜酱: http://coshadow.com/
+  骚猪我是狗: http://fkwebs.com/
+  路人Kinm: http://mysaul.com/
+  喷子尤里卡: http://www.wxybaby.com/
+  萌萌哒卷猫: http://anneke.cn/
+  天才sxysxy大神: http://sxysxy.org/
+  高冷的泠神: https://shyling.com/
+  程序媛IT姑凉: http://itguliang.github.io/
+  耿直的笔兄: https://musclejack.github.io/
+  帅气的天空: http://itotoo.com/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 伸手党，懒癌晚期，节能主义者，萝莉控，重度动漫迷，前后端菜狗
+aboutme: 本蒟蒻诚心加各位大神，真心不嫌弃各位大神腿毛多，为何你们却嫌弃我手毛多?天理何在！！！
