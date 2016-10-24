@@ -7,7 +7,7 @@ tags:
 - Node.js 
 ---
 
-众所周知，在http2之前，受制于协议本身的原因，http并不支持服务端主动推送。客户端需要采用轮询等方式与服务端进行双向实时通信，但产生的开销比较大。而html5中提出了一套websocket协议规范，使得客户端浏览器与服务端进行双向实时通信成为可能(具体参见[rfc6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1))，本文将介绍用node.js原生模块打造一个简单的ws服务器，[点击这里](https://github.com/geemo/test/tree/master/node/ws)获取完整代码。
+众所周知，在http2之前，受制于协议本身的原因，http并不支持服务端主动推送。客户端需要采用轮询等方式与服务端进行实时通信，但产生的开销比较大。而html5中提出了一套websocket协议规范，使得客户端浏览器与服务端进行双向实时通信成为可能(具体参见[rfc6455](https://datatracker.ietf.org/doc/rfc6455/?include_text=1))，本文将介绍用node.js原生模块打造一个简单的ws服务器，[点击这里](https://github.com/geemo/test/tree/master/node/ws)获取完整代码。
 
 <!--more-->
 websocket protocol分为两部分：握手和数据传输
