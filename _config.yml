@@ -73,7 +73,7 @@ Plugins:
 - hexo-generator-sitemap
 
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
